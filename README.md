@@ -16,10 +16,10 @@
   </div>
   <p3> .... </p3><br />
   <div>
-  <img src="https://github.com/apollon282/apollon282/blob/main/03.png" width="400" height="300">
-  <img src="https://github.com/apollon282/apollon282/blob/main/01.jpg" width="400" height="300"><br>
-  <img src="https://github.com/apollon282/apollon282/blob/main/02.jpg" width="400" height="300">
-  <img src="https://github.com/apollon282/apollon282/blob/main/05.png" width="400" height="300">
+  <img src="https://github.com/apollon282/apollon282/blob/main/03.png" width="410" height="250">
+  <img src="https://github.com/apollon282/apollon282/blob/main/01.jpg" width="410" height="250"><br>
+  <img src="https://github.com/apollon282/apollon282/blob/main/02.jpg" width="410" height="250">
+  <img src="https://github.com/apollon282/apollon282/blob/main/05.png" width="410" height="250">
     </div>
   <h2> More detail </h2>
   🪙: Blockchain: Ethereum, Bitcoin, Smart Contract, Solidity, DeFi, Web3.js<br />
