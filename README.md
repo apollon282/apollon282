@@ -16,12 +16,12 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" width="40" />
   <p3> .... </p3><br />
   <h2> More detail </h2>
-  🪙: Blockchain: Ethereum, Bitcoin, Smart Contract, Solidity, DeFi, Web3.js
-  🌱: Program language: HTML, CSS, JavaScript, Typescript, Python, Node.js, C#/.Net, PHP, Laravel, Go, C++, C
-  🔭: Frameworks/Libraries: React.js, Angular, Vue.js, Next.js, Django, Flask, Express.js, Asp.net core, FastAPI, Bootstrap/Tailwind CSS
-  🧩: Database: PostgreSQL, MongoDB, MariaDB, MySQL, NoSQL
-  🔥: Project Management: AWS, GCP, Azure, Agile, Jira, Trello
-  📲: APIs: GraphQL, Restful APIs, GRPC
-  💬
+  🪙: Blockchain: Ethereum, Bitcoin, Smart Contract, Solidity, DeFi, Web3.js<br />
+  🌱: Program language: HTML, CSS, JavaScript, Typescript, Python, Node.js, C#/.Net, PHP, Laravel, Go, C++, C<br />
+  🔭: Frameworks/Libraries: React.js, Angular, Vue.js, Next.js, Django, Flask, Express.js, Asp.net core, FastAPI, Bootstrap/Tailwind CSS<br />
+  🧩: Database: PostgreSQL, MongoDB, MariaDB, MySQL, NoSQL<br />
+  🔥: Project Management: AWS, GCP, Azure, Agile, Jira, Trello<br />
+  📲: APIs: GraphQL, Restful APIs, GRPC<br />
+  💬<br />
   👨‍🎓: Bachelor’s Degree in Computer Science
 </p>
