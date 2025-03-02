@@ -17,7 +17,7 @@
   <p3> .... </p3><br />
   <div>
   <img src="https://github.com/apollon282/apollon282/blob/main/03.png" z-Index={-1} position="relative">
-    <img src="https://github.com/apollon282/apollon282/blob/main/01.png" width="30" position="absolute" top="50%" right="50">
+    <img src="https://github.com/apollon282/apollon282/blob/main/01.png">
     </div>
   <h2> More detail </h2>
   🪙: Blockchain: Ethereum, Bitcoin, Smart Contract, Solidity, DeFi, Web3.js<br />
