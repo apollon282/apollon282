@@ -15,9 +15,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" width="40" />
   </div>
   <p3> .... </p3><br />
-  <div position="relative">
-  <img src="https://github.com/apollon282/apollon282/blob/main/03.png">
-    <img src="https://github.com/apollon282/apollon282/blob/main/01.jpg" width="30" position="absolute" top="50%" right="50">
+  <div style="position: relative; display: inline-block;"">
+  <img src="https://github.com/apollon282/apollon282/blob/main/03.png" width="400px" height="300px">
+    <img src="https://github.com/apollon282/apollon282/blob/main/01.jpg" width="100px" height="60px" style="position: absolute; top: 20px; left: 20px;">
     </div>
   <h2> More detail </h2>
   🪙: Blockchain: Ethereum, Bitcoin, Smart Contract, Solidity, DeFi, Web3.js<br />
