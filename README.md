@@ -15,8 +15,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" width="40" />
   </div>
   <p3> .... </p3><br />
-  <div>
-  <img src="https://github.com/apollon282/apollon282/blob/main/03.png" z-Index={-1} position="relative">
+  <div position="relative">
+  <img src="https://github.com/apollon282/apollon282/blob/main/03.png">
     <img src="https://github.com/apollon282/apollon282/blob/main/01.jpg" width="30" position="absolute" top="50%" right="50">
     </div>
   <h2> More detail </h2>
