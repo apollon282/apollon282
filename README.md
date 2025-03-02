@@ -15,9 +15,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" width="40" />
   </div>
   <p3> .... </p3><br />
-  <div style="position: relative; display: inline-block;"">
-  <img src="https://github.com/apollon282/apollon282/blob/main/03.png" width="400px" height="300px">
-    <img src="https://github.com/apollon282/apollon282/blob/main/01.jpg" width="100px" height="60px" style="position: absolute; top: 20px; left: 20px;">
+  <div>
+  <img src="https://github.com/apollon282/apollon282/blob/main/03.png" width="200" height="100">
+  <img src="https://github.com/apollon282/apollon282/blob/main/01.jpg" width="200" height="100"><br>
+  <img src="https://github.com/apollon282/apollon282/blob/main/02.jpg" width="200" height="100">
+  <img src="https://github.com/apollon282/apollon282/blob/main/05.png" width="200" height="100">
     </div>
   <h2> More detail </h2>
   🪙: Blockchain: Ethereum, Bitcoin, Smart Contract, Solidity, DeFi, Web3.js<br />
