@@ -21,7 +21,7 @@
   <img src="https://github.com/apollon282/apollon282/blob/main/02.jpg" width="410" height="250">
   <img src="https://github.com/apollon282/apollon282/blob/main/05.png" width="410" height="250">
     </div>
-  <h2> More detail </h2>
+  <h2> More details </h2>
   🪙: Blockchain: Ethereum, Bitcoin, Smart Contract, Solidity, DeFi, Web3.js<br />
   🌱: Program language: HTML, CSS, JavaScript, Typescript, Python, Node.js, C#/.Net, PHP, Laravel, Go, C++, C<br />
   🔭: Frameworks/Libraries: React.js, Angular, Vue.js, Next.js, Django, Flask, Express.js, Asp.net core, FastAPI, Bootstrap/Tailwind CSS<br />
