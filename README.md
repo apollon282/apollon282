@@ -1,4 +1,6 @@
 ## Hello I am Terry👋
+![Profile View Counter](https://komarev.com/ghpvc/?username=apollon282)
+![Follow me on GitHub!](https://img.shields.io/github/followers/apollon282?)
 
 ## Languages & Tools I Use:
 <div>
