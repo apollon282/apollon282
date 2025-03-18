@@ -27,6 +27,22 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apollon282&layout=compact&theme=dark" />
     <img src="https://github-readme-stats.vercel.app/api?username=apollon282&show_icons=true&theme=dark" />
     </div>
+    <div>
+      <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="20" />  
+    <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="20" />  
+    <img src="https://img.shields.io/badge/Sass-282C34?logo=Sass&logoColor=F5517F" alt="Sass logo" title="Sass" height="20" />  
+    <img src="https://img.shields.io/badge/Tailwindcss-282C34?logo=Tailwindcss&logoColor=F5517F" alt="Tailwindcss logo" title="TailwindCSS" height="20" />  
+    <img src="https://img.shields.io/badge/Bootstrap-282C34?logo=Bootstrap&logoColor=F5517F" alt="Sass logo" title="Sass" height="20" />  
+    <img src="https://img.shields.io/badge/Figma-282C34?logo=Figma&logoColor=F5517F" alt="Figma logo" title="Figma" height="20" />  
+    <img src="https://img.shields.io/badge/JavaScript-282C34?logo=JavaScript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="20" /></span>  
+    <img src="https://img.shields.io/badge/TypeScript-282C34?logo=TypeScript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="20" />  
+    <img src="https://img.shields.io/badge/JQuery-282C34?logo=jQuery&logoColor=3178C6" alt="jQuery logo" title="jQuery" height="20" />  
+    <img src="https://img.shields.io/badge/React-282C34?logo=React&logoColor=61DBFB" alt="React logo" title="React" height="20" />  
+    <img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=61DBFB" alt="Redux logo" title="Redux" height="20" />  
+    <img src="https://img.shields.io/badge/Next.js-282C34?logo=Next.js&logoColor=41B883" alt="Next.js logo" title="Next.js" height="20" />  
+    <img src="https://img.shields.io/badge/Vue.js-282C34?logo=Vue.js&logoColor=61DBFB" alt="Vue.js logo" title="Vue.js" height="20" />  
+    <img src="https://img.shields.io/badge/Angular-282C34?logo=Angular&logoColor=41B883" alt="Angular logo" title="Angular.js" height="20" />
+    </div>
   <h2> More details </h2>
   🪙: Blockchain: Ethereum, Bitcoin, Smart Contract, Solidity, DeFi, Web3.js<br />
   🌱: Program language: HTML, CSS, JavaScript, Typescript, Python, Node.js, C#/.Net, PHP, Laravel, Go, C++, C<br />
