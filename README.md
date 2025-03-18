@@ -59,8 +59,8 @@
   💬<br />
   👨‍🎓: Bachelor’s Degree in Computer Science
    </div>
-   <p3 color="purple.300">
+   <div color="purple.300">
      Senior Full Stack Software Engineer with over 9 years of experience in building scalable,</br> efficient, and high-performance web applications and backend services. </br>Proven ability to design, architect, and implement complex systems across diverse technologies </br>including React, Node.js, Go, Angular, PHP, Laravel, Django, Python, and C#.</br> Strong background in optimizing performance, scalability,</br> and ensuring high availability across various platforms like AWS, Azure, and GCP. 
-   </p3>
+   </div>
    </div>
   </div>
