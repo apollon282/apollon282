@@ -46,10 +46,6 @@
  <img src="https://github-profile-trophy.vercel.app/?username=devlancer-lucas&theme=dracula&no-frame=true&margin-w=15&margin-h=15">
     </div>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=apollon282&theme=dark" />
-    <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apollon282&layout=compact&theme=dark" />
-    <img src="https://github-readme-stats.vercel.app/api?username=apollon282&show_icons=true&theme=dark" />
-    </div>
     
   <h2> More details </h2>
   🪙: Blockchain: Ethereum, Bitcoin, Smart Contract, Solidity, DeFi, Web3.js<br />
