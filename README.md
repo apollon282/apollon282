@@ -1,6 +1,5 @@
 ## <h1 align="center"> Hello I am Terry👋 </h1>
 ![Follow me on GitHub!](https://img.shields.io/github/followers/apollon282?)
-![Follow me on GitHub!](https://img.shields.io/github/following/apollon282?)
 
 ## Languages & Tools I Use:
 <div>
@@ -18,10 +17,10 @@
   </div>
   <p3> .... </p3><br />
   <div>
-  <img src="https://github.com/apollon282/apollon282/blob/main/03.png" width="410" height="250">
-  <img src="https://github.com/apollon282/apollon282/blob/main/01.jpg" width="410" height="250"><br>
-  <img src="https://github.com/apollon282/apollon282/blob/main/02.jpg" width="410" height="250">
-  <img src="https://github.com/apollon282/apollon282/blob/main/05.png" width="410" height="250">
+  <img src="https://github.com/apollon282/apollon282/blob/main/03.png" width="350" height="200">
+  <img src="https://github.com/apollon282/apollon282/blob/main/01.jpg" width="350" height="200"><br>
+  <img src="https://github.com/apollon282/apollon282/blob/main/02.jpg" width="350" height="200">
+  <img src="https://github.com/apollon282/apollon282/blob/main/05.png" width="350" height="200">
     </div>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=apollon282&theme=dark" />
     <div>
