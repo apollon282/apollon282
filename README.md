@@ -22,8 +22,10 @@
   <img src="https://github.com/apollon282/apollon282/blob/main/05.png" width="410" height="250">
     </div>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=apollon282&theme=dark" />
+    <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apollon282&layout=compact&theme=dark" />
     <img src="https://github-readme-stats.vercel.app/api?username=apollon282&show_icons=true&theme=dark" />
+    </div>
   <h2> More details </h2>
   🪙: Blockchain: Ethereum, Bitcoin, Smart Contract, Solidity, DeFi, Web3.js<br />
   🌱: Program language: HTML, CSS, JavaScript, Typescript, Python, Node.js, C#/.Net, PHP, Laravel, Go, C++, C<br />
