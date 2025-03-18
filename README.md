@@ -41,11 +41,9 @@
     <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="20" />  
     <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=VS%20Code&logoColor=007ACC" alt="VS%20Code logo" title="VS%20Code" height="20" />
     </div>
-  <div>
-  <img src="https://github.com/apollon282/apollon282/blob/main/03.png" width="350" height="200">
-  <img src="https://github.com/apollon282/apollon282/blob/main/01.jpg" width="350" height="200"><br>
-  <img src="https://github.com/apollon282/apollon282/blob/main/02.jpg" width="350" height="200">
-  <img src="https://github.com/apollon282/apollon282/blob/main/05.png" width="350" height="200">
+    <div>
+ <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula&no-frame=true&margin-w=15&margin-h=15">
+ <img src="https://github-profile-trophy.vercel.app/?username=devlancer-lucas&theme=dracula&no-frame=true&margin-w=15&margin-h=15">
     </div>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=apollon282&theme=dark" />
     <div>
