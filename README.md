@@ -50,17 +50,40 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=apollon282&theme=dark" />
     
   <h2> Add details </h2>
-  <div display="flex">
-  <div width="50%">
-  🪙: Blockchain: Ethereum, Bitcoin, Smart Contract, Solidity, DeFi, Web3.js<br />
-  🧩: Database: PostgreSQL, MongoDB, MariaDB, MySQL, NoSQL<br />
-  🔥: Project Management: AWS, GCP, Azure, Agile, Jira, Trello<br />
-  📲: APIs: GraphQL, Restful APIs, GRPC<br />
-  💬<br />
-  👨‍🎓: Bachelor’s Degree in Computer Science
-   </div>
-   <div width="50%" font-color="blue">
-     Senior Full Stack Software Engineer with over 9 years of experience in building scalable,</br> efficient, and high-performance web applications and backend services. </br>Proven ability to design, architect, and implement complex systems across diverse technologies </br>including React, Node.js, Go, Angular, PHP, Laravel, Django, Python, and C#.</br> Strong background in optimizing performance, scalability,</br> and ensuring high availability across various platforms like AWS, Azure, and GCP. 
-   </div>
-   </div>
+  <div style="display: flex; justify-content: space-between;">
+
+  <div style="width: 48%;">
+    
+  ## 🛠️ Technical Skills
+
+  ### 🪙 Blockchain:
+  Ethereum, Bitcoin, Smart Contract, Solidity, DeFi, Web3.js  
+
+  ### 🧩 Database:
+  PostgreSQL, MongoDB, MariaDB, MySQL, NoSQL  
+
+  ### 🔥 Project Management:
+  AWS, GCP, Azure, Agile, Jira, Trello  
+
+  ### 📲 APIs:
+  GraphQL, Restful APIs, GRPC  
+
+  ### 🎓 Education
+  👨‍🎓 Bachelor's Degree in Computer Science  
+
+  </div>
+
+  <div style="width: 48%;">
+
+  ## 💼 Professional Summary  
+
+  **Senior Full Stack Software Engineer** with over **9 years** of experience in building **scalable, efficient, and high-performance** web applications and backend services.  
+
+  Proven ability to **design, architect, and implement complex systems** across diverse technologies, including **React, Node.js, Go, Angular, PHP, Laravel, Django, Python, and C#**.  
+
+  Strong background in **optimizing performance, scalability, and ensuring high availability** across various platforms like **AWS, Azure, and GCP**.  
+
+  </div>
+
+</div>
   </div>
