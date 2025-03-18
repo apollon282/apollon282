@@ -50,7 +50,7 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=apollon282&theme=dark" />
     
   <h2> Add details </h2>
-  <div>
+  <div display="flex">
   <div>
   🪙: Blockchain: Ethereum, Bitcoin, Smart Contract, Solidity, DeFi, Web3.js<br />
   🧩: Database: PostgreSQL, MongoDB, MariaDB, MySQL, NoSQL<br />
