@@ -1,7 +1,9 @@
 ## <h1 align="center"> Hello I am Terry👋 </h1>
 ![Follow me on GitHub!](https://img.shields.io/github/followers/apollon282?)
 
-## Languages & Tools I Use:
+<h1 align="center">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+github!;If+you+are+sparked+sth;from+my+repo;plz+give+me+star!!!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
+</h1>
 <div>
       <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="20" />  
     <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="20" />  
