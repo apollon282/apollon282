@@ -49,13 +49,18 @@
     </div>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=apollon282&theme=dark" />
     
-  <h2> More details </h2>
+  <h2> Add details </h2>
+  <div>
+  <div>
   🪙: Blockchain: Ethereum, Bitcoin, Smart Contract, Solidity, DeFi, Web3.js<br />
-  🌱: Program language: HTML, CSS, JavaScript, Typescript, Python, Node.js, C#/.Net, PHP, Laravel, Go, C++, C<br />
-  🔭: Frameworks/Libraries: React.js, Angular, Vue.js, Next.js, Django, Flask, Express.js, Asp.net core, FastAPI, Bootstrap/Tailwind CSS<br />
   🧩: Database: PostgreSQL, MongoDB, MariaDB, MySQL, NoSQL<br />
   🔥: Project Management: AWS, GCP, Azure, Agile, Jira, Trello<br />
   📲: APIs: GraphQL, Restful APIs, GRPC<br />
   💬<br />
   👨‍🎓: Bachelor’s Degree in Computer Science
+   </div>
+   <p3 color="purple.300">
+     Senior Full Stack Software Engineer with over 9 years of experience in building scalable, efficient, and high-performance web applications </br>and backend services. Proven ability to design, architect, and implement complex systems across diverse technologies including      React, Node.js, Go, Angular, PHP, Laravel, Django, Python, and C#.</br> Strong background in optimizing performance, scalability, and ensuring high availability across various platforms like AWS, Azure, and GCP. 
+   </p3>
+   </div>
   </div>
