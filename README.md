@@ -3,31 +3,6 @@
 
 ## Languages & Tools I Use:
 <div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" />
-  <br />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" width="40" />
-  </div>
-  <p3> .... </p3><br />
-  <div>
-  <img src="https://github.com/apollon282/apollon282/blob/main/03.png" width="350" height="200">
-  <img src="https://github.com/apollon282/apollon282/blob/main/01.jpg" width="350" height="200"><br>
-  <img src="https://github.com/apollon282/apollon282/blob/main/02.jpg" width="350" height="200">
-  <img src="https://github.com/apollon282/apollon282/blob/main/05.png" width="350" height="200">
-    </div>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=apollon282&theme=dark" />
-    <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apollon282&layout=compact&theme=dark" />
-    <img src="https://github-readme-stats.vercel.app/api?username=apollon282&show_icons=true&theme=dark" />
-    </div>
-    <div>
       <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="20" />  
     <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="20" />  
     <img src="https://img.shields.io/badge/Sass-282C34?logo=Sass&logoColor=F5517F" alt="Sass logo" title="Sass" height="20" />  
@@ -42,7 +17,42 @@
     <img src="https://img.shields.io/badge/Next.js-282C34?logo=Next.js&logoColor=41B883" alt="Next.js logo" title="Next.js" height="20" />  
     <img src="https://img.shields.io/badge/Vue.js-282C34?logo=Vue.js&logoColor=61DBFB" alt="Vue.js logo" title="Vue.js" height="20" />  
     <img src="https://img.shields.io/badge/Angular-282C34?logo=Angular&logoColor=41B883" alt="Angular logo" title="Angular.js" height="20" />
+  <img src="https://img.shields.io/badge/node.js-282C34?logo=node.js&logoColor=F5517F" alt="node.js logo" title="node.js" height="20" />  
+    <img src="https://img.shields.io/badge/Express-282C34?logo=Express&logoColor=41B883" alt="Express logo" title="Express" height="20" /> 
+    <img src="https://img.shields.io/badge/php-282C34?logo=php&logoColor=41B883" alt="php logo" title="php" height="20" />  
+    <img src="https://img.shields.io/badge/Laravel-282C34?logo=Laravel&logoColor=F05032" alt="Laravel logo" title="Laravel" height="20" />  
+    <img src="https://img.shields.io/badge/CodeIgniter-282C34?logo=CodeIgniter&logoColor=yellow" alt="CodeIgniter logo" title="CodeIgniter" height="20" />  
+    <img src="https://img.shields.io/badge/Symfony-282C34?logo=Symfony&logoColor=pink" alt="Symfony logo" title="Symfony" height="20" />  
+    <img src="https://img.shields.io/badge/Java-282C34?logo=Java&logoColor=grey" alt="Java logo" title="Java" height="20" />  
+    <img src="https://img.shields.io/badge/SpringBoot-282C34?logo=SpringBoot&logoColor=grey" alt="SpringBoot logo" title="SpringBoot" height="20" />  
+    <img src="https://img.shields.io/badge/Python-282C34?logo=Python&logoColor=grey" alt="Python logo" title="Python" height="20" />  
+    <img src="https://img.shields.io/badge/Django-282C34?logo=Django&logoColor=41B883" alt="Django logo" title="Django" height="20" />  
+    <img src="https://img.shields.io/badge/Golang-282C34?logo=Golang&logoColor=41B883" alt="Golang logo" title="Golang" height="20" />  
+    <img src="https://img.shields.io/badge/Solidity-282C34?logo=Solidity&logoColor=41B883" alt="Solidity logo" title="Solidity" height="20" />  
+    <img src="https://img.shields.io/badge/Rust-282C34?logo=Rust&logoColor=41B883" alt="Rust logo" title="Rust" height="20" />
+  <img src="https://img.shields.io/badge/MySQL-282C34?logo=MySQL&logoColor=F7DF1E" alt="MySQL logo" title="MySQL" height="20" />  
+    <img src="https://img.shields.io/badge/MongoDB-282C34?logo=MongoDB&logoColor=41B883" alt="MongoDB logo" title="MongoDB" height="20" />  
+    <img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=PostgreSQL&logoColor=41B883" alt="PostgreSQL logo" title="PostgreSQL" height="20" />  
+    <img src="https://img.shields.io/badge/firebase-282C34?logo=firebase&logoColor=FFCB2B" alt="firebase logo" title="firebase" height="20" />  
+    <img src="https://img.shields.io/badge/AWS-282C34?logo=AWS&logoColor=41B883" alt="AWS logo" title="AWS" height="20" />  
+    <img src="https://img.shields.io/badge/Scrum-282C34?logo=Scrum&logoColor=41B883" alt="Scrum logo" title="Scrum" height="20" />  
+    <img src="https://img.shields.io/badge/Jira-282C34?logo=Jira&logoColor=41B883" alt="Jira logo" title="Jira" height="20" />  
+    <img src="https://img.shields.io/badge/Docker-282C34?logo=Docker&logoColor=007ACC" alt="Docker logo" title="Docker" height="20" />  
+    <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="20" />  
+    <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=VS%20Code&logoColor=007ACC" alt="VS%20Code logo" title="VS%20Code" height="20" />
     </div>
+  <div>
+  <img src="https://github.com/apollon282/apollon282/blob/main/03.png" width="350" height="200">
+  <img src="https://github.com/apollon282/apollon282/blob/main/01.jpg" width="350" height="200"><br>
+  <img src="https://github.com/apollon282/apollon282/blob/main/02.jpg" width="350" height="200">
+  <img src="https://github.com/apollon282/apollon282/blob/main/05.png" width="350" height="200">
+    </div>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=apollon282&theme=dark" />
+    <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apollon282&layout=compact&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api?username=apollon282&show_icons=true&theme=dark" />
+    </div>
+    
   <h2> More details </h2>
   🪙: Blockchain: Ethereum, Bitcoin, Smart Contract, Solidity, DeFi, Web3.js<br />
   🌱: Program language: HTML, CSS, JavaScript, Typescript, Python, Node.js, C#/.Net, PHP, Laravel, Go, C++, C<br />
