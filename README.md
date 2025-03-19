@@ -44,7 +44,7 @@
     <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=VS%20Code&logoColor=007ACC" alt="VS%20Code logo" title="VS%20Code" height="20" />
     </div>
     <div>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dark)
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apollon282&layout=compact&theme=dark" />
      <img src="https://github-readme-stats.vercel.app/api?username=apollon282&show_icons=true&theme=dark" />
     </div>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=apollon282&theme=dark" />
