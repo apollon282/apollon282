@@ -1,5 +1,4 @@
 ## <h1 align="center"> Hello I am Terry👋</h1>
-<div> Please Give me star </div>
 ![Follow me on GitHub!](https://img.shields.io/github/followers/apollon282?)
 
 <h1 align="center">
