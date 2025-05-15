@@ -53,7 +53,7 @@
   <h2> Add details </h2>
   <div style="display: flex; justify-content: space-between;">
 
-  <div style="width: 48%;">
+  <div style="width: 50%;">
     
   ## 🛠️ Technical Skills
 
